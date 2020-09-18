@@ -47,7 +47,7 @@ ___________________
 
 **serum_sodium:** Level of serum sodium in the blood (mEq/L)
 
-**sex:** Female or male (binary)
+**sex:** Female or male (binary). I'm not certain, but my guess is that female = 0 and male = 1, based on the order of female & male listed in the dictionary.  
 
 **smoking:** If the patient smokes or not (boolean)
 
